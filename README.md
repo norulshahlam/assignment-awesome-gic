@@ -1,7 +1,7 @@
-# Awesome GIC Application
+# Awesome GIC Application ([Requirement](./src/main/resources/BankAccountCodingExercise.docx))
 
 
-### Design and Assumptions
+### Design
 
 The application is designed using the following components:
 
@@ -45,7 +45,7 @@ To run the application, follow these steps:
 
 - After completing an action, the application will ask if there is anything else you'd like to do. Type in the letter corresponding to the action you want to take (again) and press `Enter`
 
-- To quit the application at any time, type "q" and press Enter.
+- To quit the application at any time, type "q" and press `Enter`.
 
 ### Conclusion
 
