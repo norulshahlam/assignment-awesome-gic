@@ -35,7 +35,7 @@ To run the application, follow these steps:
 
   `mvn clean install package`
 
-- The build application will will stored in /target folder. Now run the following command:  
+- The build application will be stored in /target folder. Now run the following command:  
 
   `java -jar target/assignment-awesome-gic-0.0.1-SNAPSHOT.jar`
 
