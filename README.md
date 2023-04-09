@@ -1,6 +1,5 @@
 # Awesome GIC Application ([Requirement](./src/main/resources/BankAccountCodingExercise.docx))
 
-
 ### Design
 
 The application is designed using the following components:
