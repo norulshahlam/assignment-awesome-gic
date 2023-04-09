@@ -18,6 +18,10 @@ The application is designed using the following components:
 - Users can go back to main page halfway in a transaction by pressing `q`.
 - The application only supports a single user account.
 
+### Code coverage
+![Image](./src/main/resources/code-coverage.PNG)
+
+
 ### How to Run
 
 To run the application, follow these steps:
