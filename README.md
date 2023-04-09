@@ -19,8 +19,8 @@ The application is designed using the following components:
 - The application only supports a single user account.
 
 ### Code coverage
-![Image](./src/main/resources/code-coverage.PNG)
 
+![Image](./src/main/resources/code-coverage.PNG)
 
 ### How to Run
 
