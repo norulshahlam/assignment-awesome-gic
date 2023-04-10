@@ -1,5 +1,21 @@
 # Awesome GIC Application ([Requirement](./src/main/resources/BankAccountCodingExercise.docx))
 
+### Introduction
+
+This is a simple banking system that handles operations on bank accounts. At the moment, this system is capable of three features:  
+
+-	depositing an amount
+-	withdrawing an amount
+-	printing account statement
+
+
+### Technology Stack
+This application is built using the following technology stack:
+
+- Java 11
+- Spring Boot Framework
+- Maven
+
 ### Design
 
 The application is designed using the following components:
@@ -22,25 +38,31 @@ The application is designed using the following components:
 
 ![Image](./src/main/resources/code-coverage.PNG)
 
+### Software requirements
+
+1. Java 11
+2. Maven
+3. Git
+
 ### How to Run
 
 To run the application, follow these steps:
 
-- Make sure you have Java installed on your machine and Maven running.
+- Make sure you have fulfilled the above software requirements.
 
-- Download or clone the repository to your local machine.
+- Clone this repository to your local machine.
 
-  `https://github.com/norulshahlam/assignment-awesome-gic`
+      git clone https://github.com/norulshahlam/assignment-awesome-gic
 
 - Navigate to the project directory in the terminal/command prompt.
 
-- Compile the code by running the following command:
+- Build the app by running the following command:
 
-  `mvn clean install package`
+      mvn clean install package
 
-- The build application will be stored in /target folder. Now run the following command:  
+- The build application will be stored in /target folder. Now run the following command to run the app:  
 
-  `java -jar target/assignment-awesome-gic-0.0.1-SNAPSHOT.jar`
+      java -jar target/assignment-awesome-gic-0.0.1-SNAPSHOT.jar
 
 - The application will display a welcome message and prompt you to choose an action. Type in the letter corresponding to the action you want to take (e.g. "d" for deposit) and press Enter.
 
@@ -48,7 +70,7 @@ To run the application, follow these steps:
 
 - After completing an action, the application will ask if there is anything else you'd like to do. Type in the letter corresponding to the action you want to take (again) and press `Enter`
 
-- To quit the application at any time, type "q" and press `Enter`.
+- To quit the application at any time, type `q` and press `Enter`.
 
 ### Conclusion
 
