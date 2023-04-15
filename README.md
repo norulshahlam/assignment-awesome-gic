@@ -50,7 +50,7 @@ To run the application, follow these steps:
 
 - Make sure you have fulfilled the above software requirements.
 
-- Clone this repository to your local machine.
+- Clone this repository to your local machine by running the below command in terminal:
 
       git clone https://github.com/norulshahlam/assignment-awesome-gic
 
